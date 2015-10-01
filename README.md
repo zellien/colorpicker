@@ -10,3 +10,6 @@ $(".datepicker").datePicker({
   // options
 });
 ```
+Screnshot:
+
+![Alt text](https://raw.githubusercontent.com/zellien/colorpicker/master/screen.png "Color Picker")
